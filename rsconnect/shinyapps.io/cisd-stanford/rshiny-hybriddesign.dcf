@@ -1,0 +1,12 @@
+name: rshiny-hybriddesign
+title: RShiny-HybridDesign
+username: cisd-stanford
+account: cisd-stanford
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14391514
+bundleId: 10035856
+url: https://cisd-stanford.shinyapps.io/rshiny-hybriddesign/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
